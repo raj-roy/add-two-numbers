@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProjectTemplate\ProjectTemplate.csproj" />
+    <ProjectReference Include="..\AddTwoNumbers\AddTwoNumbers.csproj" />
   </ItemGroup>
 
   <ItemGroup>
